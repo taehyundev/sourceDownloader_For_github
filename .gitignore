@@ -1,0 +1,9 @@
+# 소스 파일
+source/*.py
+source/*.cpp
+source/*.c
+source/*.java
+
+
+# 캐시파일
+modules/__pycache__
