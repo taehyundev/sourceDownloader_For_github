@@ -6,7 +6,7 @@ gitNickanme = input("What is your gitNickName >> ")
 url = "http://github.com/"+gitNickanme
 
 ### 확장자
-extends = ['.py', '.c', '.cpp', '.java','.md','.cs']
+extends = ['.py', '.c', '.cpp', '.java','.md','.cs','.js']
 fileName =str()
 
 ### getRepositories
